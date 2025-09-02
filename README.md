@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Amine Ait Benmessaoud
+#  Hi, I'm Amine Ait Benmessaoud
 
-## 🚀 Software Engineer | Aspiring Polymath
+##  Software Engineer | Aspiring Polymath
 
 Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and a lifelong learner passionate about **technology**, **mathematics**, and the **art of problem-solving**.
 
@@ -43,7 +43,7 @@ Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and
 
 ---
 
-## 🔗 Let’s Connect!
+##  Let’s Connect!
 
 *  [LinkedIn](https://www.linkedin.com/in/amine-ait-benmessaoud/) 
 
@@ -53,5 +53,5 @@ Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and
 
 ---
 
-### ⭐ If you're into building, learning, and exploring the edges of what’s possible — feel free to connect or collaborate!
+###  If you're into building, learning, and exploring the edges of what’s possible — feel free to connect or collaborate!
 
