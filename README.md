@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a junior **software engineer** freshly graduated fro
 ###  Fun Facts
 
 * Discovered coding in primary school and built my first website as a kid.
-* Taught myself electronics during junior high and invented a novel electronic solution before turning 15.
+* Taught myself electronics during junior high and worked on electronic projects before turning 15 using PIC microcontrollers.
 * A firm believer that curiosity and grit are the ultimate accelerators.
 * I’m driven by a simple goal: **to invent, to learn, and to build things that matter.**
 
