@@ -1,19 +1,18 @@
 
 #  Hi, I'm Amine Ait Benmessaoud
 
-##  Software Engineer | Aspiring Polymath
+##  Software Engineer
 
-Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and a lifelong learner passionate about **technology**, **mathematics**, and the **art of problem-solving**.
+Welcome to my GitHub! I’m a junior **software engineer** freshly graduated from IMT Atlantique.
 
 ###  About Me
 
 *  **Software Engineer** — Specialized in **backend engineering**, with professional experience in **Java**, **Spring**, **Spring Batch**, and large-scale information systems.
-*  Passionate about **functional programming**, **mathematical modeling**, and **formal verification**. I regularly experiment with languages like **Haskell**, **Scala**, and **Agda**.
+*  Passionate about **functional programming**, **mathematical modeling**, and **formal verification**. I experimented with languages like **Haskell**, **Scala**, and **Agda**.
 *  **Engineer with a math brain** — I love blending software with mathematics, whether it’s stochastic processes, machine learning, or logic proofs.
 *  Currently preparing for coding interviews and exploring opportunities that combine **engineering, creativity, and impact.**
-*  On a mission to **reignite my polymath mindset** — from software to physics, finance, philosophy, and beyond.
 
-### ⚙ Tech Stack
+### Tech Stack
 
 * **Languages:** Java, Python, Scala, Haskell, Agda, TypeScript
 * **Frameworks:** Spring Boot, Spring Batch, AngularJS
@@ -38,7 +37,6 @@ Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and
 * Discovered coding in primary school and built my first website as a kid.
 * Taught myself electronics during junior high and invented a novel electronic solution before turning 15.
 * A firm believer that curiosity and grit are the ultimate accelerators.
-* Fitness enthusiast: 🏋️‍♂ gym,  swimming, and  running keep me balanced.
 * I’m driven by a simple goal: **to invent, to learn, and to build things that matter.**
 
 ---
@@ -47,11 +45,6 @@ Welcome to my GitHub! I’m a **software engineer**, a **builder of ideas**, and
 
 *  [LinkedIn](https://www.linkedin.com/in/amine-ait-benmessaoud/) 
 
----
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-
----
 
 ###  If you're into building, learning, and exploring the edges of what’s possible — feel free to connect or collaborate!
 
